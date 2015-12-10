@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "MRubySetting",
+	"Description": "",
+	"Category": "Programming",
+	"CreatedBy": "shsnow23",
+	"CreatedByURL": "unreallife.hatenablog.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "MRubySetting",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false
+}
